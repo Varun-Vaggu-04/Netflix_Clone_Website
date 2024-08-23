@@ -34,8 +34,6 @@
     background: transparent;
     border: none;
     color: white;
-    font-size: 30px;
-    padding: 10px 20px;
   }
   
   .language__drop__down:focus {
@@ -44,27 +42,19 @@
   
   .language__drop__down option {
     background-color: black;
-    font-size: 30px;
   }
   
   .dropdown__container {
-    padding: 10px;
+    padding: 0.4rem;
     border: 1px solid white;
     border-radius: 4px;
     background: rgba(0, 0, 0, 0.4);
   }
 
-  .fas {
-    font-size: 30px;
-  }
-  
   .signin__button {
     background-color: #dc030f;
     border: 1px solid #dc030f;
     color: white;
-    font-size: 35px;
-    height: 60px;
-    width: 180px;
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
   }
